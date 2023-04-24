@@ -1,9 +1,10 @@
 body {
-	background-color: #aaccff;
+	background-color: #bb99ff;
 }
 * {
   box-sizing: border-box;
 }
+
 
 #box {
   border: 1px solid black;
@@ -11,6 +12,8 @@ body {
   margin-top: 20px;
   height: 170px;
   overflow: auto;
+  margin: 1%;
+
 }
 div {
 
